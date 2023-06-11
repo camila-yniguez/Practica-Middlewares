@@ -1,0 +1,2 @@
+matar un puerto para poder usarlo
+npx kill-port 3000

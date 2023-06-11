@@ -1,0 +1,25 @@
+
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: /products 
+El ususario ingreso ala ruta: /products/detail 
+El ususario ingreso ala ruta: /users/register 
+El ususario ingreso ala ruta: /users/login 
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: /products/detail 
+El ususario ingreso ala ruta: /products/detail 
+El ususario ingreso ala ruta: / 
+El ususario ingreso ala ruta: /products 
+El ususario ingreso ala ruta: /products/detail 
+El ususario ingreso ala ruta: /users/register 
+El ususario ingreso ala ruta: /users/login 
+El ususario ingreso ala ruta: /users/login 
+El ususario ingreso ala ruta: /users/login 
+El ususario ingreso ala ruta: /users/login 
+El ususario ingreso ala ruta: /users/login 
+El ususario ingreso ala ruta: /users/login 
+El ususario ingreso ala ruta: /users/login 
